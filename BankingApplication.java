@@ -1,7 +1,7 @@
 
  import java.util.Scanner;
  
- public class task2 {
+ public class BankingApplication{
     public static void main(String[] args){
         Scanner scan=new Scanner(System.in);
         ATM a=new ATM();

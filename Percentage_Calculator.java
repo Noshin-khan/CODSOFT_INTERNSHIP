@@ -2,7 +2,8 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
 
-public class task1 {
+ public class  Percentage_Calculator{
+
     public static void main(String[] args){
         Scanner scan=new Scanner(System.in);
         System.out.println("Enter the total number of Subjects");
